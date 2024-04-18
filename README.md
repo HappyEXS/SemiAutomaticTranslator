@@ -1,4 +1,5 @@
 # Dokumentacja Wstępna Projektu: Narzędzie do Półautomatycznego Tłumaczenia Zbiorów Tekstu
+## Janek Jędrzejewski, Janek Filipecki
 
 ## Opis Zadania
 
